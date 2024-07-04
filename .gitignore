@@ -1,0 +1,9 @@
+*.o
+*.a
+*.gcno
+*.gcda
+my_paint
+coding-style-reports.log
+.vscode
+vgcore.*
+*.save
